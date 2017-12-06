@@ -18,4 +18,8 @@ The module handles post requests containing the following two keys ( as of now):
 
 + LangError : Given when the language specified for compiling the code is not in the above given formats
 
-+ makeContainerError : Arises when we are unable to make a new container
++ MakeContainerError : Arises when we are unable to make a new container
+
++ RequestError: Arises when the request has some error
+
++ ExecutionEnvError: Unable to return the execution results back
