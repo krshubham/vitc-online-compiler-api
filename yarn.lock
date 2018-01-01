@@ -2339,6 +2339,10 @@ next-tick@1:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/next-tick/-/next-tick-1.0.0.tgz#ca86d1fe8828169b0120208e3dc8424b9db8342c"
 
+nice-console@^1.0.0:
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/nice-console/-/nice-console-1.0.0.tgz#8ec322cae401534a53f883410abc41ada8360feb"
+
 node-fingerprint@0.0.2:
   version "0.0.2"
   resolved "https://registry.yarnpkg.com/node-fingerprint/-/node-fingerprint-0.0.2.tgz#31cbabeb71a67ae7dd5a7dc042e51c3c75868501"
